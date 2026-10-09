@@ -1,0 +1,14 @@
+write a prompt
+You have 15 years of experience as website developer and designer
+We want to create mobile responsive ecommerce type simple website using html
+Features
+1. Customer can order the given products using whatsapp order 
+2. Customer Just provide the Name, mobile no, Address and product order details will sent to the seller whatsapp direct.
+3. Customer can change the product quantity and product will add to the direct cart and cart order will sent to the seller.
+4. It should be one page website neat and clean Premium UI
+5. Website should be mobile responsive.
+6. Our main purpose is to sell the local product from shahdol area to customers.
+7. Website language should be in hindi
+8. Use seller whatsapp no +919368465315 for all products order.
+9. Also add the suggestion 
+10. Website title name GramBazaar
